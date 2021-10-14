@@ -1,0 +1,25 @@
+span {
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    color: rgb(8, 8, 8);
+    margin: 25px;
+    display:flex;
+    justify-content: center;
+  }
+  button {
+    background: #f3afcf;
+    color: rgb(12, 12, 12);
+    margin : 20px;
+    cursor: pointer;
+  }
+  .box{
+    width: 13%;
+    background-color: rgb(76, 198, 235);
+    font-family: arial;
+    margin-top: 50px;
+    margin-left: 30px; 
+    height: 80%;
+    padding: 5px 10px 10px 10px;
+    border-radius: 10px;
+    display: inline-block;
+  }
